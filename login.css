@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&family=Oswald:wght@200..700&display=swap');
+*{
+  font-family: "Oswald", sans-serif;
+}
+#login{
+    padding: 20px;
+    width:500px;
+    height:400px;
+    margin-left:500px;
+    margin-top:150px;
+    border: 2px black groove;
+    border-radius: 15px;
+    box-shadow: 10px 2px 4px rgb(0, 0, 0, 0.1);
+}
+a:hover{
+    background-color:red;
+}
